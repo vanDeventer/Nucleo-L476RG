@@ -1,0 +1,2 @@
+## Non Blocking Blinky
+This STM32 project is based of [Maker.io](https://www.digikey.com/en/maker/projects/getting-started-with-stm32-timers-and-timer-interrupts/d08e6493cefa486fb1e79c43c0b08cc6) where the green LED is toggled on and off every one second by repeatedly checking if the second has expired using a 10kHz counter to keep track of time.
